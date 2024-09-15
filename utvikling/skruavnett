@@ -1,0 +1,11 @@
+#!/bin/bash
+config_innhold='[Context]
+shared=!network;
+'
+
+echo $config_innhold > /var/lib/flatpak/overrides/org.keepassxc.KeePassXC
+~                                                                               
+~                                                                               
+~                      
+~                                                                               
+~                      

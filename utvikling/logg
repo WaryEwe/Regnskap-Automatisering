@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ssh -o StrictHostKeyChecking=no elev@192.168.1.69 'echo "Olav has logged inn ($(date))" >> /home/elev/log/logins.log'
